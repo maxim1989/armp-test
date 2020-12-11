@@ -1,4 +1,4 @@
-# armp-test
+# armo-test
 Операционная система:
   - MacOS
   - Linux

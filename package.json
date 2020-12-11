@@ -1,0 +1,17 @@
+{
+  "name": "armo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^11.0.4",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  }
+}
